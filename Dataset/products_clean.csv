@@ -1,0 +1,76 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price
+P0001,Laptops Product 1,Electronics,Laptops,4796.83,7136.17
+P0002,Laptops Product 2,Electronics,Laptops,11167.20,13156.82
+P0003,Laptops Product 3,Electronics,Laptops,2586.13,3668.32
+P0004,Laptops Product 4,Electronics,Laptops,4367.90,5467.15
+P0005,Laptops Product 5,Electronics,Laptops,3613.96,4622.33
+P0006,Mobile Accessories Product 1,Electronics,Mobile Accessories,10199.17,12286.42
+P0007,Mobile Accessories Product 2,Electronics,Mobile Accessories,8536.04,11704.00
+P0008,Mobile Accessories Product 3,Electronics,Mobile Accessories,3628.47,4782.01
+P0009,Mobile Accessories Product 4,Electronics,Mobile Accessories,3148.86,4391.42
+P0010,Mobile Accessories Product 5,Electronics,Mobile Accessories,1070.97,1233.84
+P0011,Monitors Product 1,Electronics,Monitors,7571.94,9296.14
+P0012,Monitors Product 2,Electronics,Monitors,944.20,1235.69
+P0013,Monitors Product 3,Electronics,Monitors,704.15,1059.50
+P0014,Monitors Product 4,Electronics,Monitors,428.64,592.19
+P0015,Monitors Product 5,Electronics,Monitors,5317.84,7545.01
+P0016,Chairs Product 1,Furniture,Chairs,4005.02,4854.15
+P0017,Chairs Product 2,Furniture,Chairs,11783.91,17505.86
+P0018,Chairs Product 3,Furniture,Chairs,10338.81,12924.55
+P0019,Chairs Product 4,Furniture,chairs,562.13,714.64
+P0020,Chairs Product 5,Furniture,Chairs,6491.28,8313.13
+P0021,Desks Product 1,Furniture,Desks,9951.64,12525.30
+P0022,Desks Product 2,Furniture,Desks,11586.50,15443.72
+P0023,Desks Product 3,Furniture,Desks,10120.07,12424.94
+P0024,Desks Product 4,Furniture,Desks,4995.11,7142.03
+P0025,Desks Product 5,Furniture,Desks,1746.40,2101.09
+P0026,Storage Product 1,Furniture,Storage,11637.49,16709.55
+P0027,Storage Product 2,Furniture,Storage,588.70,770.92
+P0028,Storage Product 3,Furniture,Storage,5258.90,7612.87
+P0029,Storage Product 4,Furniture,Storage,3085.24,3775.51
+P0030,Storage Product 5,Furniture,Storage,1062.39,1403.76
+P0031,Paper Product 1,Office Supplies,Paper,8293.15,9730.17
+P0033,Paper Product 3,Office Supplies,Paper,2953.47,3507.39
+P0034,Paper Product 4,Office Supplies,Paper,2276.11,3468.44
+P0035,Paper Product 5,Office Supplies,Paper,7695.42,10440.21
+P0036,Writing Product 1,Office Supplies,Writing,7919.62,10487.71
+P0037,Writing Product 2,Office Supplies,Writing,8787.47,10273.31
+P0038,Writing Product 3,Office Supplies,Writing,6835.84,8295.01
+P0039,Writing Product 4,Office Supplies,Writing,1529.96,1968.68
+P0040,Writing Product 5,Office Supplies,Writing,1192.41,1416.18
+P0041,Binders Product 1,Office Supplies,Binders,3805.82,5867.83
+P0042,Binders Product 2,Office Supplies,Binders,2186.43,2529.40
+P0043,Binders Product 3,Office Supplies,Binders,9184.04,13525.93
+P0044,Binders Product 4,Office Supplies,Binders,4221.02,5638.73
+P0045,Binders Product 5,Office Supplies,Binders,,9157.72
+P0046,Appliances Product 1,Home & Kitchen,Appliances,11394.83,17145.48
+P0047,Appliances Product 2,Home & Kitchen,Appliances,3204.63,3704.94
+P0048,Appliances Product 3,Home & Kitchen,Appliances,11207.89,15135.31
+P0049,Appliances Product 4,Home & Kitchen,Appliances,6518.59,9279.77
+P0050,Appliances Product 5,Home & Kitchen,Appliances,7428.63,11347.65
+P0051,Kitchenware Product 1,Home & Kitchen,Kitchenware,11336.59,16969.51
+P0052,Kitchenware Product 2,Home & Kitchen,Kitchenware,7673.20,11282.52
+P0053,Kitchenware Product 3,Home & Kitchen,Kitchenware,8158.30,11253.13
+P0054,Kitchenware Product 4,Home & Kitchen,Kitchenware,1629.15,2402.15
+P0055,Kitchenware Product 5,Home & Kitchen,Kitchenware,9865.61,13815.56
+P0056,Home Storage Product 1,Home & Kitchen,Home Storage,9863.08,13912.80
+P0057,Home Storage Product 2,Home & Kitchen,Home Storage,2559.54,3223.96
+P0058,Home Storage Product 3,Home & Kitchen,Home Storage,2653.61,3452.09
+P0059,Home Storage Product 4,Home & Kitchen,Home Storage,563.66,787.60
+P0060,Home Storage Product 5,Home & Kitchen,Home Storage,4105.00,5797.45
+P0062,Tools Product 2,Industrial,Tools,4153.43,5209.56
+P0063,Tools Product 3,Industrial,Tools,6002.85,8567.00
+P0064,Tools Product 4,Industrial,Tools,4245.21,6472.50
+P0065,Tools Product 5,Industrial,Tools,566.32,745.94
+P0066,Safety Equipment Product 1,Industrial,Safety Equipment,11614.21,15902.05
+P0067,Safety Equipment Product 2,Industrial,Safety Equipment,5139.30,7078.91
+P0068,Safety Equipment Product 3,Industrial,Safety Equipment,6953.50,10031.53
+P0069,Safety Equipment Product 4,Industrial,Safety Equipment,1619.51,2024.40
+P0070,Safety Equipment Product 5,Industrial,Safety Equipment,7008.47,10490.60
+P0072,Packaging Product 2,Industrial,Packaging,8190.15,11842.66
+P0073,Packaging Product 3,Industrial,Packaging,2935.01,3818.72
+P0074,Packaging Product 4,Industrial,Packaging,6458.50,8710.09
+P0075,Packaging Product 5,Industrial,Packaging,4736.46,6010.82
+P0076,Packaging Product 1,Industrial,Packaging,6786.21,8451.81
+P0061,Unknown,Industrial,Tools,4686.22,6666.83
+P0032,Paper Product 2,Office Supplies,Paper,10991.04,

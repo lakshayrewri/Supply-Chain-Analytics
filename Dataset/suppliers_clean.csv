@@ -1,0 +1,26 @@
+supplier_id,supplier_name,supplier_category,supplier_location,supplier_rating
+S001,Supplier 01,Office Supplies,Bengaluru,4.1
+S002,Supplier 02,Electronics,Noida,4.7
+S003,Supplier 03,Home & Kitchen,Noida,4.7
+S005,Supplier 05,Industrial,Noida,4.8
+S006,Supplier 06,Electronics,Bengaluru,4.1
+S007,Supplier 07,Office Supplies,Pune,3.6
+S008,Supplier 08,Home & Kitchen,Hyderabad,4.4
+S009,Supplier 09,Electronics,Mumbai,3.9
+S011,Supplier 11,Home & Kitchen,Noida,4.4
+S012,Supplier 12,Office Supplies,Noida,3.3
+S013,Supplier 13,Furniture,Delhi,3.5
+S014,Supplier 14,Industrial,Chennai,3.8
+S015,Supplier 15,Electronics,Hyderabad,3.4
+S016,Supplier 16,Office Supplies,Kolkata,3.7
+S017,Supplier 17,Home & Kitchen,Noida,4.1
+S018,Supplier 18,Electronics,Jaipur,4.4
+S019,Supplier 19,Home & Kitchen,Mumbai,4.5
+S020,Supplier 20,Office Supplies,Noida,4.6
+S022,Supplier 22,Home & Kitchen,Bengaluru,4.3
+S023,Supplier 23,Industrial,Bengaluru,3.3
+S024,Supplier 24,Electronics,Chennai,3.7
+S025,Supplier 25,Industrial,Pune,3.9
+S021,Supplier 21,Industrial,Mumbai,4.4
+S010,Unknown,Home & Kitchen,Jaipur,3.6
+S004,Supplier 04,Home & Kitchen,Hyderabad,
